@@ -1,0 +1,5 @@
+name: SheepNuker
+description: Cleverly takes care of the sheep problem on PvE
+main: nu.nerd.sheepnuker.SheepNuker
+version: 0.1
+author: Deaygo Jarkko
